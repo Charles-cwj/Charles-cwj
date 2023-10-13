@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🔭 I’m currently working on GRE test
+![Metrics](https://metrics.lecoq.io/Charles-cwj?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
 
 Hi, i'm [Charles](https://charles.me/), a senior student from Xiamen University,and i'm passsionate with programming.
 
