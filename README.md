@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 I’m currently working on CFA test.
+### 🔭 I’m currently working on quant trade of crypto market.
 
 
 Hi, i'm [Charles](https://charles.me/), a senior student from University of Hong Kong,and i'm passsionate with programming.
